@@ -1,0 +1,11 @@
+@media screen and (max-width: 768px) {
+  .slider__container {
+    flex-direction: column;
+    gap: 1em;
+  }
+
+  .slider__text {
+    align-items: center;
+    font-size: 1.5rem;
+  }
+}
